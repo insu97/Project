@@ -1,4 +1,5 @@
 # Project
 
-## 001.EPL
-  - EPL BIG 6 TEAM Win,Loss,Draw predict
+## 001.Drug
+
+- Drug 분류
