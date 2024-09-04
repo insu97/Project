@@ -1,1 +1,3 @@
-https://www.kaggle.com/datasets/prathamtripathi/drug-classification?resource=download
+- [Kaggle](https://www.kaggle.com/datasets/prathamtripathi/drug-classification?resource=download)
+---
+- [Mysite](https://insu97.github.io/2024/07/16/drug-multiclass-classification.html)
